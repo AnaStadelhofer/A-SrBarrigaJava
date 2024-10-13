@@ -80,9 +80,16 @@ Por padrão todos os testes executados não fecharão o navegador aberto, mas ca
 
 ⚠️ **Aviso!** Este projeto foi configurado apenas para rodar no Chrome.
 
-# Autor
+# Sobre mim
+<a href="https://www.linkedin.com/in/ana-carolina-stadelhofer/">
+ <img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/v2/D4D03AQGAQ-VkazPtBQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724111439720?e=1734566400&v=beta&t=XcY8U0V65N6rf-KU8YqQvLX2xSK7rB8w4lcSIfp72Cs" width="100px;" alt=""/>
+ <br />
+<b>Ana Carolina Stadelhofer</b>
+ 
+Sou Analista de Qualidade e Testes, atuando na área desde 2021. Formada em Análise e Desenvolvimento de Sistema e Pós-graduada em Testes de Software.
+Costantemente estou em busca de conhecimento! Acesse meu [Linkedin](https://www.linkedin.com/in/ana-carolina-stadelhofer/) e conecte-se comigo!
 
-**Linkedin:** [Ana Carolina Stadelhofer](https://www.linkedin.com/in/ana-carolina-stadelhofer/) 
+Feito com carinho por Ana Stadelhofer
 
-**GitHub:** [Ana Stadelhofer](https://github.com/AnaStadelhofer/)
-
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-stadelhofer/)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ana.stadelhofer@outlook.com)
