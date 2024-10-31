@@ -2,14 +2,14 @@
 
 Este projeto é uma automação para estudo em uma aplicação real chamada, Sr Barriga que foi desenvolvido por Franscisco Wagner. Os testes foram desenvolvidos em Java com JUnit e Selenium.
 
-## Tecnologias Utilizadas
+## 📋 Tecnologias Utilizadas
 
 - **Java**: Versão 11;
 - **Selenium**: Para automação de navegadores;
 - **JUnit**: Para execução de testes;
 - **Maven**: Para gerenciamento de dependências.
 
-## Testes desenvolvidos
+## 💡 Testes desenvolvidos
 
 No projeto, foram automatizadas as seguintes funcionalidades com os tipos de testes:
 
@@ -32,7 +32,7 @@ No projeto, foram automatizadas as seguintes funcionalidades com os tipos de tes
 - Consulta de movimentação mensal
 - Exclusão
 
-## Instalação
+## 💻 Instalação
 
 ### Pré-requisitos
 
@@ -46,7 +46,7 @@ No projeto, foram automatizadas as seguintes funcionalidades com os tipos de tes
 2. Criar uma pasta de sua escolha
 3. Rodar o seguinte comando ```Git clone https://github.com/AnaStadelhofer/A-SrBarrigaJava.git```
 
-## Estrutura do Projeto
+## 🔎 Estrutura do Projeto
 
 Aqui, uma breve descrição da estrutura do projeto:
 ```
@@ -79,17 +79,3 @@ Após rodar os testes desejados, pode rodar o comando ```taskkill /F /IM chromed
 Por padrão todos os testes executados não fecharão o navegador aberto, mas caso queira alterar, apenas mudar o valor da variável ```closeBrowser``` para True.
 
 ⚠️ **Aviso!** Este projeto foi configurado apenas para rodar no Chrome.
-
-# Sobre mim
-<a href="https://www.linkedin.com/in/ana-carolina-stadelhofer/">
- <img style="border-radius: 50%;" src="https://media.licdn.com/dms/image/v2/D4D03AQGAQ-VkazPtBQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1724111439720?e=1734566400&v=beta&t=XcY8U0V65N6rf-KU8YqQvLX2xSK7rB8w4lcSIfp72Cs" width="100px;" alt=""/>
- <br />
-<b>Ana Carolina Stadelhofer</b>
- 
-Sou Analista de Qualidade e Testes, atuando na área desde 2021. Formada em Análise e Desenvolvimento de Sistema e Pós-graduada em Testes de Software.
-Costantemente estou em busca de conhecimento! Acesse meu [Linkedin](https://www.linkedin.com/in/ana-carolina-stadelhofer/) e conecte-se comigo!
-
-Feito com carinho por Ana Stadelhofer
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ana-carolina-stadelhofer/)
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:ana.stadelhofer@outlook.com)
